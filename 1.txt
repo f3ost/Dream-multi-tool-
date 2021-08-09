@@ -1,0 +1,7 @@
+How to use the dos python script.
+
+1 - Move the 2.py script to downloads folder.
+2 - Go to command prompt.
+3 - Type cd downloads.
+4 - Then type 2.py
+5 - It should say what to do next.
